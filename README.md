@@ -1,5 +1,10 @@
 # WeihnachtsfeierLicht
 ## ~avatar avatar @unplugged
+![PartyStern](https://github.com/r00b1nh00d/weihnachtsfeierlicht/blob/master/PartyStern3.gif?raw=true)
+
+
+
+
 gedulde dich noch ein wenig bis es soweit ist :-)
 
 let maximum = 0
