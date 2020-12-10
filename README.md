@@ -5,7 +5,6 @@
 ## ~ @unplugged
 Du kannst für dieses Projekt den bereits gebauten Weihnachtsstern oder einen anderen Streifen des RGB-LED Bands nutzen. Beginnen wir erstmal mit einer einfachen Variante, bei der ein Lautstärkebalken vom ersten bis zum letzten Pixel gezeichnet wird.
 
-gedulde dich noch ein wenig bis es soweit ist :-)
 
 
 ## Variante 1
